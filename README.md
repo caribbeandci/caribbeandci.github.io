@@ -71,5 +71,11 @@ Mourato B.L., Hazin H., Hazin F., Travassos P., & Amorim A.F. (2018). Assessing 
 
 Vallès, H. & S. Varsamos. (2023). Caribbean Regional Management Plan for the Anchored Fish Aggregating Device (aFAD) Fishery. Bridgetown, FAO. 46 pp. [link of access](https://openknowledge.fao.org/server/api/core/bitstreams/57ab4d75-2e80-480f-b2ed-661f855223c4/content)
 
+## Reports and data analysis generated during Phase 01 of this project
+[Google Drive folder](https://drive.google.com/drive/folders/1CIRArrBeVagShSN09ABPSdHzTLfAtl7J?usp=drive_link)
+Access to this section of the project document repository is private will follow guidance
+provided by the TOR in the call for proposals and only modified upon consultation with 
+SCRS officers and the ICCAT secretariat. 
+
 For more information or comments you could write an email to: caribbeandci@gmail.com
 Updated: September 2024
