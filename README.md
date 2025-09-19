@@ -1,14 +1,25 @@
 # Improving data collection systems and analysis of ICCAT fisheries in the wider Caribbean 
-# - Phase 1 -
-This project proposes to help the SCRS identify the most productive activities that can improve the reporting 
-of catches and other fishery data from the Caribbean region. This pilot project proposes a series of activities 
-to help define the scope for a more comprehensive set of future actions.  Five activities are proposed, the first 
-three focus on ICCAT CPC members, and activities one and two use current information available in ICCAT databases 
-or provided by countries in recent capacity-building workshops.  
 
-Activity four expands the information sources beyond ICCAT and considers countries that are not CPCs.  The fifth 
-and final activity develops a digital repository of all documents and information identified in the first four 
-activities. This website is design to provide access to the mentioned digital repository.
+The first phase of the project proposed to help the SCRS identify the most productive activities that can improve the reporting 
+of catches and other fishery data from the Caribbean region. This pilot project included a series of activities 
+to help define the scope for a more comprehensive set of future actions.  
+
+Based on information collected during phase 01, a second phase is under development. This phase
+seeks to address specific information gaps and under-reporting of information on ICCAT species, 
+namely yellowfin tuna (YFT) and blue marlin (BUM), with direct participation and involvement of 
+national statistical correspondent, national scientists, and industry stakeholders, in support of 
+the restoration of these key species. 
+
+The methodology adopted and work conducted is based on activities in priority Caribbean countries 
+(Costa Rica, Dominica, Dominican Republic, Guatemana, Belize, Trinidad and Tobago and Venezuela,
+with potencial inclusion of Saint Vicent).
+
+Activities during phase 02 included in-country visits, and the development of formal surveys
+for representative sampling, which has been carry out by local samplers trained 
+during the Project.
+
+A digital repository of all documents and information was initialy built in phase 01 and 
+updated in phase 02. This website is design to provide access to the mentioned digital repository.
 
 # Area of study
 ![Map of the Caribbea Sea](docs/assets/css/MapCaribbean_v1.png)
@@ -59,7 +70,9 @@ Arocha, F., Narvaez, M., & Mendoza, J. (2024). Review of biological data, spatia
 
 Brown, C.A., Pastor, R.U., Sansores, R.S. (2004). Updating standardized catch rates for yellowfin tuna (Thunnus albacares) in the Gulf of Mexico longline fishery for 1992-2002 based upon observer programs from Mexico and the United States. ICCAT, 56(2), 676-685. [link of access](https://www.iccat.int/Documents/CVSP/CV056_2004/n_2/CV056020676.pdf) 
 
-Charef, Aymen. (2018).  Review of data collection of fisheries statistics in the Republic of Trinidad and Tobago.  Report of Mission, 30 June to 9 July 2018 under Project GCP/INT/228/JPN “Improved fisheries management for sustainable use of marine living resources in the face of changing systems” and Project GCP/SLC/202/SCF “Climate Change Adaptation in the Eastern Caribbean Fisheries Sector- CC4FISH”. FAO. 29p.
+Charef, Aymen. (2018).  Review of data collection of fisheries statistics in the Republic of Trinidad and Tobago.  Report of Mission, 30 June to 9 July 2018 under Project GCP/INT/228/JPN “Improved fisheries management for sustainable use of marine living resources in the face of changing systems” and Project GCP/SLC/202/SCF “Climate Change Adaptation in the Eastern Caribbean Fisheries Sector- CC4FISH”. FAO. 29p. 
+
+CRFM Secretariat. (2014). Review of fisheries data collection systems in selected crfm member states and recommendations for integrating FAD fisheries. [link of access]([https://www.iccat.int/Documents/CVSP/CV056_2004/n_2/CV056020676.pdf](https://ns1.crfm.net/~uwohxjxf/images/Consultant_Report_-_Review_of_Data_Collection_Systems__Recommendations_for_integrating_FAD_fisheries_Final_11_Feb_2015.pdf)) 
 
 Gentner, B. (2016). The value of billfish resources to both commercial and recreational sectors in the Caribbean. FAO Fisheries and Aquaculture Circular, (C1125), I.  [link of access](https://www.proquest.com/docview/1844303193?pq-origsite=gscholar&fromopenview=true&sourcetype=Scholarly%20Journals) 
 
@@ -67,15 +80,20 @@ Gentner, B., Arocha, F., Anderson, C., Flett, K., Obregon, P., & van Anrooy, R. 
 
 Grant, S., & Berkes, F. (2004). One hand can't clap": Combining scientific and local knowledge for improved Caribbean fisheries management. In Commons in an Age of Global Transition: Challenges, Risks and Opportunities," the Tenth Conference of the International Association for the Study of Common Property, Oaxaca, Mexico, August (pp. 9-13). [link of access](https://dlc.dlib.indiana.edu/dlcrest/api/core/bitstreams/890e6809-cafc-4e3d-8d9a-97249c04efb0/content) 
 
+McConney, P., & Pomeroy, R. (2006). Reforming governance: coastal resources co-management in Central America and the Caribbean: final report of the Coastal Resources Co-management Project (CORECOMP). Bridgetown, Barbados: Centre for Resource Management and Environmental Studies (CERMES). [link of access]([https://dlc.dlib.indiana.edu/dlcrest/api/core/bitstreams/890e6809-cafc-4e3d-8d9a-97249c04efb0/content](https://www.cavehill.uwi.edu/cermes/wp-content/uploads/sites/38/Docs/Technical_Reports/McConney_2006_CORECOMP_governance_co_management_Central_America_Caribbean_CTR_05.pdf)) 
+
+Ministry of The Attorney General And Legal Affairs. (1916). Laws of Trinidad and Tobago, Fishery Act. Chapter, 67, 51. Updated in 2015. [link of access](https://agriculture.gov.tt/wp-content/uploads/2017/11/67.51.pdf)
+
 Mourato B.L., Hazin H., Hazin F., Travassos P., & Amorim A.F. (2018). Assessing blue marlin catch rates based on Brazilian sport fishing tournaments (1996-2018), using a generalized linear model with tweedie distribution. ICCAT,  75(5), 889-898. [link of access](https://www.iccat.int/Documents/CVSP/CV075_2018/n_5/CV075050889.pdf)
 
 Vallès, H. & S. Varsamos. (2023). Caribbean Regional Management Plan for the Anchored Fish Aggregating Device (aFAD) Fishery. Bridgetown, FAO. 46 pp. [link of access](https://openknowledge.fao.org/server/api/core/bitstreams/57ab4d75-2e80-480f-b2ed-661f855223c4/content)
 
-## Reports and data analysis generated during Phase 01 of this project
+
+## Reports and data analysis generated during Phase 01 and 02 of this project
 [Google Drive folder](https://drive.google.com/drive/folders/1CIRArrBeVagShSN09ABPSdHzTLfAtl7J?usp=drive_link)
-Access to this section of the project document repository is private will follow guidance
+Access to this section of the project document repository is private and will follow guidance
 provided by the TOR in the call for proposals and only modified upon consultation with 
 SCRS officers and the ICCAT secretariat. 
 
-For more information or comments you could write an email to: caribbeandci@gmail.com
-Updated: September 2024
+For more information or comments, please write an email to: caribbeandci@gmail.com
+Updated: September 2025
