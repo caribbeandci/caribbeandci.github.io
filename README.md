@@ -18,7 +18,7 @@ Activities during phase 02 included in-country visits, and the development of fo
 for representative sampling, which has been carry out by local samplers trained 
 during the Project.
 
-A digital repository of all documents and information was initialy built in phase 01 and 
+A digital repository of all documents and information was initially built in phase 01 and 
 updated in phase 02. This website is design to provide access to the mentioned digital repository.
 
 # Area of study
