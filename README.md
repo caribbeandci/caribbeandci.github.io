@@ -39,10 +39,10 @@ Figure 3. Map that shows the relative percentage of BUM catches for each country
 
 To view an interactive version of the maps the Tableau Dashboard can be access on the next link: [Interactive Map - YFT and BUM](https://public.tableau.com/shared/JKBNFQDQ5?:display_count=n&:origin=viz_share_link) in which you can check the filter boxes to filter information by species.
 
-# How to access the repositories
+# How to access the repository
 This repository can be access in two ways:
-By checking below on this website the list of references, databases and websites (which includes links for direct access), 
-or by opening the Google Sheets document [click here](https://docs.google.com/spreadsheets/d/1Zdjk6D-FWdcXfw-etrk46iC5y6dBT4MA88TSz4rz8nk/edit?usp=sharing) which has a list of all the files, websites and databases of the project repository, so you can use filter for each column or search, 
+The first option is by checking below on this website the list of references, databases and websites (which includes links for direct access). The second option is by opening the public document available on this
+[link](https://docs.google.com/spreadsheets/d/1Zdjk6D-FWdcXfw-etrk46iC5y6dBT4MA88TSz4rz8nk/edit?usp=sharing) which has a list of all the files, websites and databases of the project repository, so you can use a filter for each column or search, 
 as you can see in the next step by step images:
 ![Step 1](docs/assets/css/Step1.png)
 
@@ -89,11 +89,11 @@ Mourato B.L., Hazin H., Hazin F., Travassos P., & Amorim A.F. (2018). Assessing 
 Vallès, H. & S. Varsamos. (2023). Caribbean Regional Management Plan for the Anchored Fish Aggregating Device (aFAD) Fishery. Bridgetown, FAO. 46 pp. [link of access](https://openknowledge.fao.org/server/api/core/bitstreams/57ab4d75-2e80-480f-b2ed-661f855223c4/content)
 
 
-## Reports and data analysis generated during Phase 01 and 02 of this project
-[Google Drive folder](https://drive.google.com/drive/folders/1CIRArrBeVagShSN09ABPSdHzTLfAtl7J?usp=drive_link)
+## Reports and results generated during Phase 01 and 02 of this project
+[NextCloud repository:](https://secretariat.iccat.online/index.php/s/DLbJ62LTN4fYPpX)
 Access to this section of the project document repository is private and will follow guidance
 provided by the TOR in the call for proposals and only modified upon consultation with 
 SCRS officers and the ICCAT secretariat. 
 
 For more information or comments, please write an email to: caribbeandci@gmail.com
-Updated: September 2025
+Updated: October 2026
